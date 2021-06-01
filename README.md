@@ -14,6 +14,7 @@ In the project directory, you can run:
 
 ```
 git clone https://github.com/FaysalShuvo/quiz-app-with-typescript.git
+cd quiz-app-with-typescript
 yarn start
 ```
 
