@@ -12,8 +12,8 @@ livelink: https://quiz-app-with-typescript.netlify.app
 
 In the project directory, you can run:
 
-### `git clone https://github.com/FaysalShuvo/quiz-app-with-typescript.git
-yarn start`
+```git clone https://github.com/FaysalShuvo/quiz-app-with-typescript.git
+yarn start```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
