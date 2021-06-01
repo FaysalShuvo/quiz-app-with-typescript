@@ -1,4 +1,4 @@
-##Feature
+## Feature
 this is a simple quiz app which is made by typescript following freecodecamp yt video.
 
 - user can play this quiz game by selecting the right answer
